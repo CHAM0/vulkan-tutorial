@@ -1,0 +1,9 @@
+[package]
+name = "intro"
+version = "0.1.0"
+authors = ["cham0 <jarod8405@gmail.com>"]
+
+[dependencies]
+vulkano = "0.10"
+vulkano-win = "0.10"
+winit = "0.17"
