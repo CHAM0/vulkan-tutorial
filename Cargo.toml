@@ -3,7 +3,11 @@ name = "intro"
 version = "0.1.0"
 authors = ["cham0 <jarod8405@gmail.com>"]
 
+repository = "https://github.com/CHAM0/vulkan-tutorial.git"
+
 [dependencies]
 vulkano = "0.10"
 vulkano-win = "0.10"
 winit = "0.17"
+vulkano-shader-derive = "0.10.0"
+image = "0.19"
